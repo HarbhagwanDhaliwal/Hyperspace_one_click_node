@@ -11,7 +11,8 @@ This repository provides a simple and automated way to set up a Hyperspace node 
 To install and run the Hyperspace node, execute the following command in your terminal:
 
 ```bash
-wget -O Hyperspace.sh https://raw.githubusercontent.com/HarbhagwanDhaliwal/Hyperspace_one_click_node/main/Hyperspace.sh && sed -i 's/\r$//' Hyperspace.sh && chmod +x Hyperspace.sh && ./Hyperspace.sh
+wget -O hyperspace_node.sh https://raw.githubusercontent.com/HarbhagwanDhaliwal/Hyperspace_one_click_node/main/hyperspace_node.sh && sed -i 's/\r$//' hyperspace_node.sh && chmod +x hyperspace_node.sh && ./hyperspace_node.sh
+
 ```
 
 This command will:
